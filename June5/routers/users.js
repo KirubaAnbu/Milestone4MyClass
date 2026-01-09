@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 
 router.get('/getUsers',(req,res) => {
-    res.status(200).json({message: 'Retrieved all users'})
+    res.status(200).json({message: 'Retrieved all userssss'})
 
 })
 
